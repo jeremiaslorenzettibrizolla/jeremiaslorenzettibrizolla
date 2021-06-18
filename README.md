@@ -1,5 +1,5 @@
 # Jeremias Lorenzetti Brizolla 👋
-### Full Stack Web Developer
+## Full Stack Web Developer
 
 Here are some ideas to get you started:
 

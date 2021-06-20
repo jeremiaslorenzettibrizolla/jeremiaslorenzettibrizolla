@@ -1,5 +1,5 @@
 # Hi there, I'm Jeremias 👋
-### Full Stack Web Developer
+### Full Stack Web Developer <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 
 

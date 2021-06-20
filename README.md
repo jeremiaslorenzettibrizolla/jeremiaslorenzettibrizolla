@@ -23,8 +23,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%231572B6?style=flat-square&logo=typescript)
 
-![Expressjs](https://img.shields.io/badge/-Expressjs-%231572B6?style=flat-square&logo=expressjs)
-![MySQL](https://img.shields.io/badge/-MySQL-%231572B6?style=flat-square&logo=mysql)
+![Expressjs](https://img.shields.io/badge/-Expressjs-181717?style=flat-square&logo=expressjs)
+![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
 
 <br/>
 

@@ -25,7 +25,7 @@
 
 ![Expressjs](https://img.shields.io/badge/-Expressjs-181717?style=flat-square&logo=expressjs)
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat-square&logo=postgresql&logoColor=000000&labelColor=%231572B6&color=%231572B6)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat-square&logo=postgresql&labelColor=%231572B6&color=%231572B6)
 ![JSON](https://img.shields.io/badge/-JSON-181717?style=flat-square&logo=json)
 
 <br/>

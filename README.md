@@ -24,6 +24,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%231572B6?style=flat-square&logo=typescript)
 
 ![Expressjs](https://img.shields.io/badge/-Expressjs-%231572B6?style=flat-square&logo=expressjs)
+![MySQL](https://img.shields.io/badge/-MySQL-%231572B6?style=flat-square&logo=mysql)
 
 <br/>
 

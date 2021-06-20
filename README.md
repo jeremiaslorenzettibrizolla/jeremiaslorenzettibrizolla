@@ -21,7 +21,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%231572B6?style=flat-square&logo=typescript)
 
 <br/>
 

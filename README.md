@@ -30,4 +30,7 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
 #### Feel free to look at my repositories and leave your opinion, tips, suggestions that can help me improve. I'm open to ideas, if you want to share yours, I'm very happy.

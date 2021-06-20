@@ -1,8 +1,6 @@
 # Hi there, I'm Jeremias <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 ### Full Stack Web Developer
 
-
-
 - I'm currently working on projects developed in the full stack web development course at **Growdev**.
 - I'm currently studying database with PostgreSQL
 - I'm looking for an opportunity to start my career in the development area, I don't care about the salary but about the experience I can acquire.</br>

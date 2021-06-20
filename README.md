@@ -23,6 +23,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%231572B6?style=flat-square&logo=typescript)
 
+![Expressjs](https://img.shields.io/badge/-Expressjs-%231572B6?style=flat-square&logo=expressjs)
+
 <br/>
 
 #### Feel free to look at my repositories and leave your opinion, tips, suggestions that can help me improve. I'm open to ideas, if you want to share yours, I'm very happy.

@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff"/>
 </p>
 
 #### Feel free to look at my repositories and leave your opinion, tips, suggestions that can help me improve. I'm open to ideas, if you want to share yours, I'm very happy.

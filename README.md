@@ -20,7 +20,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%231572B6?style=flat-square&logo=typescript&logoColor=000000&labelColor=%231572B6&color=%231572B6)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%231572B6?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=%231572B6&color=%231572B6)
 
 ![Expressjs](https://img.shields.io/badge/-Expressjs-181717?style=flat-square&logo=expressjs)
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)

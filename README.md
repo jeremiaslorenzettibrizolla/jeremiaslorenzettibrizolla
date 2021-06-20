@@ -26,6 +26,7 @@
 ![Expressjs](https://img.shields.io/badge/-Expressjs-181717?style=flat-square&logo=expressjs)
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=flat-square&logo=postgresql)
+![JSON](https://img.shields.io/badge/-JSON-181717?style=flat-square&logo=json)
 
 <br/>
 

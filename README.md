@@ -15,7 +15,7 @@ With technologies like HTML, CSS, Javascript, Node, React, PWA, PaaS, Postgres a
 In addition to the applied project, a real experience in building a software project with Growdev's engineering team.</br>
 
 After completing this training at the end of this year, I will start training in Systems Analysis and Development at Feevale to further improve my knowledge, as I understand that "improvement" is a constant need in this area, in fact it is one of the things I like most , because I like to constantly challenge myself with something new to keep evolving.</br>
-So if you identified yourself, liked my profile or even would like to give me some tips, show!!!, I'm open to suggestions, so please share your opinion so I can keep evolving.</br>
+So if you identified yourself, liked my profile or even would like to give me some tips, perfect!!!, I'm open to suggestions, so please share your opinion so I can keep evolving.</br>
 
 #### If you want, you can contact me via:
 - [![Gmail Badge](https://img.shields.io/badge/-jeremiasbrizolla@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremiasbrizolla@gmail.com)](mailto:jeremiasbrizolla@gmail.com).

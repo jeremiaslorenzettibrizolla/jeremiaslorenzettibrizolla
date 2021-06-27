@@ -21,7 +21,7 @@ So if you identified yourself, liked my profile or even would like to give me so
 - [![Gmail Badge](https://img.shields.io/badge/-jeremiasbrizolla@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremiasbrizolla@gmail.com)](mailto:jeremiasbrizolla@gmail.com).
 - [![Linkedin Badge](https://img.shields.io/badge/-Jeremias%20Brizolla-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremias-lorenzetti-brizolla-255243140/)](https://www.linkedin.com/in/jeremias-lorenzetti-brizolla-255243140/)</br>
 
-### Languages and Tools 🛠 
+### My skills
 
 <ul>
     <li>

@@ -4,7 +4,7 @@
 - I'm looking for an opportunity to start my career in the development area, I don't care about the salary but about the experience I can acquire.
 - I'm currently studying database with PostgreSQL.
 - I'm currently working on projects developed in the full stack web development course at **Growdev**.</br>
-- The Full Stack Web Developers Training Program has 1000 hours, with approximately 11 months of live classes and synchronous and asynchronous content, expected to end in January 2022.
+The Full Stack Web Developers Training Program has 1000 hours, with approximately 11 months of live classes and synchronous and asynchronous content, expected to end in January 2022.
 Within the syllabus is:
 Introduction to systems development,
 Relational and non-relational database,

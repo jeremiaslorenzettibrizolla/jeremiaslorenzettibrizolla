@@ -11,7 +11,7 @@ Relational and non-relational database,</br>
 **Front-end + Back-end** programming,</br>
 Architecture,</br>
 Software Engineering and Quality.</br>
-With technologies like HTML, CSS, Javascript, Node, React, PWA, PaaS, Postgres and more.
+With technologies like HTML, CSS, Javascript, Node, React, PWA, PaaS, Postgres and more.</br>
 In addition to the applied project, a real experience in building a software project with Growdev's engineering team.</br>
 
 After completing this training at the end of this year, I will start training in Systems Analysis and Development at Feevale to further improve my knowledge, as I understand that "improvement" is a constant need in this area, in fact it is one of the things I like most , because I like to constantly challenge myself with something new to keep evolving.</br>

@@ -1,4 +1,4 @@
-# Hi there, I'm Jeremias <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+# Hello there, I'm Jeremias <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 ### Full Stack Web Developer
 
 - I'm looking for an opportunity to start my career in the development area, I don't care about the salary but about the experience I can acquire.
@@ -8,7 +8,7 @@ The Full Stack Web Developers Training Program has 1000 hours, with approximatel
 Within the syllabus is:</br>
 Introduction to systems development,</br>
 Relational and non-relational database,</br>
-Programming Front-end and Back-end,</br>
+Front-end and Back-end programming,,</br>
 Architecture,</br>
 Software Engineering and Quality.</br>
 With technologies like HTML, CSS, Javascript, Node, React, PWA, PaaS, Postgres and more.

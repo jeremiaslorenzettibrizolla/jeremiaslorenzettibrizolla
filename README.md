@@ -8,7 +8,7 @@ The Full Stack Web Developers Training Program has 1000 hours, with approximatel
 Within the syllabus is:</br>
 Introduction to systems development,</br>
 Relational and non-relational database,</br>
-"Front-end" and "Back-end" programming,</br>
+**Front-end + Back-end** programming,</br>
 Architecture,</br>
 Software Engineering and Quality.</br>
 With technologies like HTML, CSS, Javascript, Node, React, PWA, PaaS, Postgres and more.

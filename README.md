@@ -1,25 +1,7 @@
 # Hello there, I'm Jeremias <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 ### Full Stack Web Developer
 
-- I'm looking for an opportunity to start my career in the development area, I don't care about the salary but about the experience I can acquire.
-- I'm currently studying database with PostgreSQL.
-- I'm currently working on projects developed in the full stack web development course at **Growdev**.</br></br>
-The Full Stack Web Developers Training Program has 1000 hours, with approximately 11 months of live classes and synchronous and asynchronous content, expected to end in January 2022.</br>
-Within the syllabus is:</br>
-Introduction to systems development,</br>
-Relational and non-relational database,</br>
-**Front-end + Back-end** programming,</br>
-Architecture,</br>
-Software Engineering and Quality.</br>
-With technologies like HTML, CSS, Javascript, Node, React, PWA, PaaS, Postgres and more.</br>
-In addition to the applied project, a real experience in building a software project with Growdev's engineering team.</br>
 
-After completing this training at the end of this year, I will start training in Systems Analysis and Development at Feevale to further improve my knowledge, as I understand that "improvement" is a constant need in this area, in fact it is one of the things I like most , because I like to constantly challenge myself with something new to keep evolving.</br>
-So if you identified yourself, liked my profile or even would like to give me some tips, perfect!!!, I'm open to suggestions, so please share your opinion so I can keep evolving.</br>
-
-#### If you want, you can contact me via:
-- [![Gmail Badge](https://img.shields.io/badge/-jeremiasbrizolla@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremiasbrizolla@gmail.com)](mailto:jeremiasbrizolla@gmail.com).
-- [![Linkedin Badge](https://img.shields.io/badge/-Jeremias%20Brizolla-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremias-lorenzetti-brizolla-255243140/)](https://www.linkedin.com/in/jeremias-lorenzetti-brizolla-255243140/)</br>
 
 ### My skills
 

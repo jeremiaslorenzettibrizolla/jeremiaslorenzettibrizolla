@@ -24,6 +24,6 @@
     </li>
      <li>
         <img src="https://img.shields.io/badge/-Jira-2885FF?style=for-the-badge&logo=jira"/>
-        <img src="https://img.shields.io/badge/-Bitbucket-2885FF?style=for-the-badge&logo=bitbucket"/>
+        <img src="https://img.shields.io/badge/-Bitbucket-0747A6?style=for-the-badge&logo=bitbucket"/>
     </li>
 </ul>

@@ -22,4 +22,7 @@
         <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff"/>
         <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
     </li>
+     <li>
+        <img src="https://img.shields.io/badge/-Jira-181717?style=for-the-badge&logo=jira"/>
+    </li>
 </ul>
